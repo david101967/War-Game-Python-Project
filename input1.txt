@@ -1,0 +1,8 @@
+Clubs,K Hearts,5
+Diamonds,3 Diamonds,6
+Hearts,10 Clubs,2
+Clubs,A Diamonds,A
+Spades,2 Hearts,2
+Clubs,6 Hearts,6
+Spades,7 Hearts,9
+Spades,3 Diamonds,J
